@@ -1,0 +1,27 @@
+#BODY {background-color:darkgray}
+
+#contenedor{
+    background-color:cadetblue;
+}
+
+#navbar{
+    background-color: rgb(28, 46, 63);
+    text-emphasis-color:inherit;
+    scrollbar-darkshadow-color: black;
+}
+
+h4{
+    color:rgb(10, 10, 10);
+}
+
+profile-wrapper{
+    text-align: center
+}
+
+profile-pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
